@@ -2,7 +2,7 @@
 
 ## 📸 Preview
 
-![Portfolio Screenshot](public/images/Screen.png)
+![Portfolio Screenshot](public/Screen.png)
 
 ## Overview
 
